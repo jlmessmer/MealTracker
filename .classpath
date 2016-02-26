@@ -25,5 +25,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="/Users/jmessmer/Downloads/commons-lang3-3.4/commons-lang3-3.4.jar"/>
 	<classpathentry kind="lib" path="/Users/jmessmer/Downloads/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/jmessmer/Downloads/ClientLibraries_java/tdwccronparser.jar"/>
+	<classpathentry kind="lib" path="/Users/jmessmer/Downloads/ClientLibraries_java/tdwcsimpleui_public.jar"/>
+	<classpathentry kind="lib" path="/Users/jmessmer/Downloads/ClientLibraries_java/twaclient.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
